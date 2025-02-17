@@ -1,0 +1,36 @@
+body {
+    background-color: #606060; /* Dark gray */
+    color: white; /* Light gray text */
+    font-family: Arial, sans-serif;
+}
+
+.main {
+    padding-left: 10vw;
+    padding: 5vw;
+}
+
+textarea {
+    width: 80vw;
+    background-color: #808080; /* Medium gray */
+    color: white; /* Light gray text */
+    border: 1px solid #A9A9A9; /* Darker gray border */
+    padding: 10px;
+}
+
+hr {
+    background-color: #f9f6f6; /* Dark gray */
+    width: 90vw;
+    height: 2px;
+    border: none;
+}
+
+button {
+    background-color: #505050; /* Slightly lighter gray */
+    color: #C0C0C0; /* Soft gray text */
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #707070; /* Slightly brighter gray on hover */
+}
